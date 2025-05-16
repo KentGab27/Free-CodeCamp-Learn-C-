@@ -1,0 +1,7 @@
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\bin\Debug\Exercise - Odd or Even number split.exe.config
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\bin\Debug\Exercise - Odd or Even number split.exe
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\bin\Debug\Exercise - Odd or Even number split.pdb
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\obj\Debug\Exercise - Odd or Even number split.csproj.AssemblyReference.cache
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\obj\Debug\Exercise - Odd or Even number split.csproj.CoreCompileInputs.cache
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\obj\Debug\Exercise - Odd or Even number split.exe
+D:\Kent\FreecodeCamp C#\Exercise - Odd or Even number split\Exercise - Odd or Even number split\obj\Debug\Exercise - Odd or Even number split.pdb
