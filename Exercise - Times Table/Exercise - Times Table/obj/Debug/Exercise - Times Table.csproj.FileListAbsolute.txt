@@ -1,0 +1,7 @@
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\bin\Debug\Exercise - Times Table.exe.config
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\bin\Debug\Exercise - Times Table.exe
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\bin\Debug\Exercise - Times Table.pdb
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.csproj.AssemblyReference.cache
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.csproj.CoreCompileInputs.cache
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.exe
+D:\Kent\FreecodeCamp C#\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.pdb

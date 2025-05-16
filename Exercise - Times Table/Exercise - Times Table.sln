@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise - Times Table", "Exercise - Times Table\Exercise - Times Table.csproj", "{2D31C30E-3D73-4D98-B1FB-302B029E215D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D31C30E-3D73-4D98-B1FB-302B029E215D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D31C30E-3D73-4D98-B1FB-302B029E215D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D31C30E-3D73-4D98-B1FB-302B029E215D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D31C30E-3D73-4D98-B1FB-302B029E215D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFD6F83-AE00-4250-BE2E-0176A3E753B6}
+	EndGlobalSection
+EndGlobal
