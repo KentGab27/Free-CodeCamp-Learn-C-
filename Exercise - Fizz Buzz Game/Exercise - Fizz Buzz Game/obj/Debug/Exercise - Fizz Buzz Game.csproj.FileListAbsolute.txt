@@ -1,0 +1,7 @@
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\bin\Debug\Exercise - Fizz Buzz Game.exe.config
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\bin\Debug\Exercise - Fizz Buzz Game.exe
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\bin\Debug\Exercise - Fizz Buzz Game.pdb
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\obj\Debug\Exercise - Fizz Buzz Game.csproj.AssemblyReference.cache
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\obj\Debug\Exercise - Fizz Buzz Game.csproj.CoreCompileInputs.cache
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\obj\Debug\Exercise - Fizz Buzz Game.exe
+D:\Kent\FreecodeCamp C#\Exercise - Fizz Buzz Game\Exercise - Fizz Buzz Game\obj\Debug\Exercise - Fizz Buzz Game.pdb
