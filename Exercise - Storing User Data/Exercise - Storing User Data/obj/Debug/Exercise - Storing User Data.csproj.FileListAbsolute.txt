@@ -1,0 +1,7 @@
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\bin\Debug\Exercise - Storing User Data.exe.config
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\bin\Debug\Exercise - Storing User Data.exe
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\bin\Debug\Exercise - Storing User Data.pdb
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\obj\Debug\Exercise - Storing User Data.csproj.AssemblyReference.cache
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\obj\Debug\Exercise - Storing User Data.csproj.CoreCompileInputs.cache
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\obj\Debug\Exercise - Storing User Data.exe
+D:\Kent\FreecodeCamp C#\Exercise - Storing User Data\Exercise - Storing User Data\obj\Debug\Exercise - Storing User Data.pdb
