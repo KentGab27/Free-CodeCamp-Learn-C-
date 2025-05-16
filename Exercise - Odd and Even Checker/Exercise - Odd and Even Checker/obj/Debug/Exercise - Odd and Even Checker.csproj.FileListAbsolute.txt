@@ -1,7 +1,0 @@
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\bin\Debug\Exercise - Odd and Even Checker.exe.config
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\bin\Debug\Exercise - Odd and Even Checker.exe
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\bin\Debug\Exercise - Odd and Even Checker.pdb
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\obj\Debug\Exercise - Odd and Even Checker.csproj.AssemblyReference.cache
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\obj\Debug\Exercise - Odd and Even Checker.csproj.CoreCompileInputs.cache
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\obj\Debug\Exercise - Odd and Even Checker.exe
-D:\Kent\FreecodeCamp C#\Exercise - Odd and Even Checker\Exercise - Odd and Even Checker\obj\Debug\Exercise - Odd and Even Checker.pdb
