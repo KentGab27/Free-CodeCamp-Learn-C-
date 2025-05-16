@@ -1,0 +1,7 @@
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\bin\Debug\Exercise - Array of Multiples.exe.config
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\bin\Debug\Exercise - Array of Multiples.exe
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\bin\Debug\Exercise - Array of Multiples.pdb
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.csproj.AssemblyReference.cache
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.csproj.CoreCompileInputs.cache
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.exe
+D:\Kent\FreecodeCamp C#\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.pdb
