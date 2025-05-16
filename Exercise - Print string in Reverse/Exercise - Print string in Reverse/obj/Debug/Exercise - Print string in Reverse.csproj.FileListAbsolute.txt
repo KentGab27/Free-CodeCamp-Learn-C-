@@ -1,0 +1,7 @@
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\bin\Debug\Exercise - Print string in Reverse.exe.config
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\bin\Debug\Exercise - Print string in Reverse.exe
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\bin\Debug\Exercise - Print string in Reverse.pdb
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\obj\Debug\Exercise - Print string in Reverse.csproj.AssemblyReference.cache
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\obj\Debug\Exercise - Print string in Reverse.csproj.CoreCompileInputs.cache
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\obj\Debug\Exercise - Print string in Reverse.exe
+D:\Kent\FreecodeCamp C#\Exercise - Print string in Reverse\Exercise - Print string in Reverse\obj\Debug\Exercise - Print string in Reverse.pdb
